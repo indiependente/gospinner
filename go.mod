@@ -1,1 +1,1 @@
-module github.com/indiependente/gospin
+module github.com/indiependente/gospinner
